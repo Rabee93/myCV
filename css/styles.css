@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding : 0;
+  border : 0;
+}
+
+body {
+  text-align:center;
+}
+
+
+
+.top {
+  background-color: #4682B4;
+  padding: 100px;
+
+
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+}
