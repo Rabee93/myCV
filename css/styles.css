@@ -5,14 +5,19 @@
 }
 
 body {
+  margin: 0 ;
   text-align:center;
+}
+
+h1{
+  width: 10%;
+  margin: 0 auto 0 auto;
 }
 
 
 
 .top {
   background-color: #4682B4;
-  padding: 100px;
 
 
 }
