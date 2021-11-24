@@ -35,16 +35,25 @@ h3{
 
 }
 
-.middle {
+.circule {
+
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
   width: 200px;
   height: 200px;
-  background-color: red;
+  border-radius: 100%;
+  overflow: hidden;
+  background-color: blue;
+
+}
+
+.middle {
+
 }
 
 .bottom {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
+
 }
 
 .top-cloud{
